@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737324651480",
+    "project_id": "homedroid-prod",
+    "storage_bucket": "homedroid-prod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737324651480:android:074fc194293be27cc118ad",
+        "android_client_info": {
+          "package_name": "com.homedroid.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx72PAt8vO6gwnTYpzgyltQ4VEJG_HWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
